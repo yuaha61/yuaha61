@@ -1,0 +1,5 @@
+        turns -= 1        
+        print("\nWrong")    
+        print("\nYou have", + turns, 'more guesses') 
+        if turns == 0:           
+            print ("\nYou Lose") 
