@@ -1,0 +1,2 @@
+        try {
+            DataOutputStream dataOutputStream = new DataOutputStream(new FileOutputStream("/IdeaProjects/client2/src/test/java/com/client2/cnblogtest/teststream.txt"));
