@@ -1,0 +1,3 @@
+  long start = System.currentTimeMillis();
+            for(int i=0;i<10000;i++){
+                dataOutputStream.writeBytes(Objects.toString(i)+"\r\n");
