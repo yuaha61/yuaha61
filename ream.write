@@ -1,0 +1,4 @@
+                dataOutputStream.writeBytes(Objects.toString(i)+"\r\n");
+            }
+            dataOutputStream.close();
+            long useTime = System.currentTimeMillis()-start;
