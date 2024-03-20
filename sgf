@@ -1,0 +1,5 @@
+//        int by = fis.read();
+//        System.out.println(by);
+//        System.out.println((char)by);
+//        fis.close();
+          int by = fis.
