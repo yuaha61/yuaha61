@@ -1,0 +1,4 @@
+            byte[] by = {97,98,99,100};
+            //
+            fos.write(by,0,by.length);
+            fos.write(by);
