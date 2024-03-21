@@ -1,0 +1,4 @@
+ public byte[] getBytes() {
+        return StringCoding.encode(value, 0, value.length);
+    }
+ fos.write("hello".getBytes());
