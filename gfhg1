@@ -1,0 +1,9 @@
+if c=="+":
+            jisuanqi.add()
+        elif c =="-":
+            jisuanqi.sub()
+        elif c =="*":
+            jisuanqi.mul()
+        elif c =="/":
+            jisuanqi.div()
+    else:
