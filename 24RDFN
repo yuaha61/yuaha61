@@ -1,0 +1,5 @@
+public class selfAddMinus{
+    public static void main(String[] args){
+        int a = 3;//
+        int b = ++a;//
+        int c = 3;
