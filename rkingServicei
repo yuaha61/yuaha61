@@ -1,0 +1,3 @@
+ private static void Menu_Manger(CarParkingServiceimpl carparkingservice, UserServiceimpl userserviceimpl) {
+  AdminServiceImpl adminserviceimpl = AdminServiceImpl.getAdminSeriver();
+  while (true) {
