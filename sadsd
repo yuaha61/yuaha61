@@ -1,0 +1,8 @@
+     car.setAllmoney(car.getAllmoney() + car.getMoney()); //
+    } else if (t > 3 && t <= 13) {
+     car.setMoney(2 * (t - 3));
+     car.setAllmoney(car.getAllmoney() + car.getMoney()); //
+    } else if (t > 13) {
+     car.setMoney(20
+     car.setAllmoney(car.getAllmoney() + car.getMoney()); //
+    }
