@@ -1,0 +1,5 @@
+ public void show() {
+  // TODO Auto-generated method stub
+  for (CarParking car : carpaking) {
+   System.out.println(car.getLishi());
+   return;
