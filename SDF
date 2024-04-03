@@ -1,0 +1,6 @@
+            setArray(newElements);
+        } else {
+            // Not quite a no-op; ensures volatile write semantics
+            setArray(elements);
+        }
+        return oldValue;
