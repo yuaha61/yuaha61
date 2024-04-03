@@ -1,0 +1,4 @@
+    lock.lock();
+    try {
+        Object[] elements = getArray();
+        E oldValue = get(elements, index);
